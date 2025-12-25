@@ -1,0 +1,6 @@
+@TZHTB4.WebApi_HostAddress = http://localhost:5286
+
+GET {{TZHTB4.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
